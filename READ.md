@@ -3,7 +3,7 @@
 A machine learning-based web application designed to forecast palm oil yield production based on weather parameters and fertilization data using the K-Nearest Neighbor (KNN) algorithm.
 
 ## 🚀 Live Demo
-- **URL:** *(Nanti diisi link Vercel)*
+- **URL:** https://palm-yield-prediction-knn.vercel.app
 
 ## ✨ Features
 - Historical weather and fertilization dataset management.
